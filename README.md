@@ -1,5 +1,15 @@
 # Valtrix V5.4
 
+# A importância da IA nos estudos e no desenvolvimento de projetos
+
+A inteligência artificial se tornou uma grande aliada no aprendizado e no desenvolvimento de projetos. Durante meus estudos e a criação do Valtrix, utilizei a IA como ferramenta de apoio para tirar dúvidas, entender conceitos, encontrar soluções para problemas e melhorar meu código.
+
+O desenvolvimento do Valtrix – Controle Financeiro foi uma experiência importante para colocar em prática meus conhecimentos em programação. Durante o processo, enfrentei desafios na criação das funcionalidades, organização do sistema, interface e integração com banco de dados.
+
+A IA ajudou a tornar esse processo mais produtivo, mas também foi importante estudar, testar e compreender cada implementação. Afinal, a IA não substitui o aprendizado: ela funciona como uma ferramenta que ajuda a evoluir.
+
+**Minha experiência:** desenvolver o Valtrix me mostrou que aprender programação vai além de escrever código. É saber pesquisar, resolver problemas, testar ideias e transformar conhecimentos em um projeto real.
+
 Aplicação web de **controle financeiro pessoal**, com movimentações, compras, reserva, planejamento, relatórios e gerenciamento seguro da conta.
 
 <img width="1365" height="602" alt="image" src="https://github.com/user-attachments/assets/88fa24c7-2c75-4a44-92ff-cd87a4033350" />
