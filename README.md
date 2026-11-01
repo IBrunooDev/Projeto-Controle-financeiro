@@ -172,7 +172,7 @@ Se aparecer “Failed to send a request to the Edge Function”, verifique se a 
 🔗 **LinkedIn:** https://www.linkedin.com/in/brunocarus/  
 ✉️ **E-mail:** ibrunood3v@gmail.com
 
---
+---
 
 Desenvolvido por **Bruno Henrique | IBrunooDev**.  
 © 2026 Bruno Henrique. Todos os direitos reservados.
