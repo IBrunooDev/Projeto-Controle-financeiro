@@ -2,6 +2,8 @@
 
 **Controle financeiro, planejamento e recuperação segura de conta.**
 
+<img width="1365" height="602" alt="image" src="https://github.com/user-attachments/assets/88fa24c7-2c75-4a44-92ff-cd87a4033350" />
+
 A Valtrix é uma aplicação web de organização financeira pessoal. Esta versão reúne os recursos existentes de movimentações, compras e reserva com ferramentas de planejamento, relatórios e gerenciamento da conta.
 
 ## Funcionalidades
@@ -162,3 +164,15 @@ supabase functions deploy password-recovery-code
 Confirme em Supabase → Edge Functions que `password-recovery-code` aparece como implantada. A função usa `SUPABASE_URL`, `SUPABASE_ANON_KEY` e `SUPABASE_SERVICE_ROLE_KEY` fornecidas pelo ambiente Supabase; nunca coloque a `service_role` no frontend. O arquivo `supabase/config.toml` desativa a validação JWT automática no gateway porque a recuperação precisa aceitar usuários deslogados; a ação de salvar/alterar código valida o token do usuário dentro da própria função.
 
 Se aparecer “Failed to send a request to the Edge Function”, verifique se a função foi implantada no mesmo projeto indicado por `VITE_SUPABASE_URL`, se o nome está exatamente `password-recovery-code` e se a URL/chave anon do `.env` pertencem ao mesmo projeto.
+
+---
+
+🔗 **Portfólio online:** https://ibrunoodev.netlify.app/  
+💻 **GitHub:** https://github.com/IBrunooDev  
+🔗 **LinkedIn:** https://www.linkedin.com/in/brunocarus/  
+✉️ **E-mail:** ibrunood3v@gmail.com
+
+--
+
+Desenvolvido por **Bruno Henrique | IBrunooDev**.  
+© 2026 Bruno Henrique. Todos os direitos reservados.
