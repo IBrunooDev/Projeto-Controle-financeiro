@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark">
+    <title>Confirme seu e-mail | Valtrix</title>
+  </head>
+  <body style="margin:0;padding:0;background-color:#0b1220;font-family:Arial,Helvetica,sans-serif;color:#e8edf7;">
+    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#0b1220;padding:36px 14px;">
+      <tr><td align="center">
+        <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="max-width:600px;background-color:#111c2e;border:1px solid #263750;border-radius:18px;overflow:hidden;">
+          <tr><td align="center" style="padding:26px 28px 12px;">
+            <img src="{{ .SiteURL }}/valtrix-logo.png" width="520" alt="Valtrix — Seu controle financeiro" style="display:block;width:100%;max-width:520px;height:auto;border:0;border-radius:10px;">
+          </td></tr>
+          <tr><td style="padding:18px 38px 38px;">
+            <p style="margin:0 0 10px;color:#d8b96d;font-size:12px;font-weight:bold;letter-spacing:2px;text-align:center;">SEU CONTROLE FINANCEIRO</p>
+            <h1 style="margin:0 0 18px;color:#ffffff;font-size:27px;line-height:1.25;text-align:center;">Seja bem-vindo ao Valtrix!</h1>
+            <p style="margin:0 0 14px;color:#d8e1ef;font-size:16px;line-height:1.7;">Olá{{ if .Data.full_name }} {{ .Data.full_name }}{{ end }}!</p>
+            <p style="margin:0 0 14px;color:#c3cede;font-size:15px;line-height:1.75;">Estamos felizes em ter você por aqui. Sua jornada para organizar sua vida financeira começa agora.</p>
+            <p style="margin:0 0 26px;color:#c3cede;font-size:15px;line-height:1.75;">Confirme seu endereço de e-mail para ativar sua conta e começar a utilizar o Valtrix, seu controle financeiro.</p>
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+              <tr><td align="center" bgcolor="#c7a45b" style="border-radius:9px;">
+                <a href="{{ .ConfirmationURL }}" style="display:inline-block;padding:15px 30px;color:#101827;text-decoration:none;font-size:15px;font-weight:bold;">Confirmar meu e-mail</a>
+              </td></tr>
+            </table>
+            <p style="margin:26px 0 0;color:#8795aa;font-size:12px;line-height:1.6;text-align:center;">Se você não criou uma conta no Valtrix, pode ignorar esta mensagem.</p>
+          </td></tr>
+          <tr><td style="padding:18px 28px;border-top:1px solid #263750;text-align:center;">
+            <p style="margin:0;color:#aab7c9;font-size:12px;line-height:1.6;">Valtrix — Seu controle financeiro.</p>
+          </td></tr>
+        </table>
+      </td></tr>
+    </table>
+  </body>
+</html>

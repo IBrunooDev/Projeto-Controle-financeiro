@@ -1,0 +1,3 @@
+[functions.password-recovery-code]
+# A ação recover precisa aceitar visitantes sem sessão. A ação set valida o JWT dentro da função.
+verify_jwt = false
