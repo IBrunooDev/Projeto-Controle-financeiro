@@ -430,3 +430,9 @@ valtrix/
 💻 **GitHub:** https://github.com/IBrunooDev  
 🔗 **LinkedIn:** https://www.linkedin.com/in/brunocarus/  
 ✉️ **E-mail:** ibrunood3v@gmail.com
+
+---
+
+Desenvolvido por **Bruno Henrique | IBrunooDev**.  
+© 2026 Bruno Henrique. Todos os direitos reservados.
+
